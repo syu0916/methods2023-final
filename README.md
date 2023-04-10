@@ -5,3 +5,4 @@ Ideally, work in your own individual branch
    git checkout <branch name> (navigates to the desired branch>
 then we can start merging things once things are done to have access to everything.
    
+ 
